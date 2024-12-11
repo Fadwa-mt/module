@@ -1,0 +1,13 @@
+{
+  "name": "string-toolkit",
+  "version": "1.0.0",
+  "description": "Un module de manipulation de chaînes de caractères",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/string-toolkit.test.js",
+    "start": "node index.js"
+  },
+  "keywords": ["string", "manipulation", "toolkit"],
+  "author": "",
+  "license": "MIT"
+}
